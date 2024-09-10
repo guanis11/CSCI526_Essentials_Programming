@@ -19,7 +19,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/guani/Desktop/CSCI/CSCI526/Builds/Essentials3D_Lava_Build;;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"C:/Users/guani/Desktop/CSCI/CSCI526/Builds/Essentials_Programming_Build;C:/Users/guani/Desktop/CSCI/CSCI526/CSCI526_Essentials_Programming/Essentials Programming/WebGL Builds;C:/Users/guani/Desktop/CSCI/CSCI526/Builds/Essentials3D_Lava_Build;;;;;;;\"}"
             }
         ]
     }
